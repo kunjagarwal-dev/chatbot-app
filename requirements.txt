@@ -1,0 +1,24 @@
+# requirements.txt
+
+# Core data handling
+pandas
+numpy
+
+# EDA / visualization
+matplotlib
+seaborn
+
+# Deep learning (Keras/TensorFlow)
+tensorflow
+
+# NLP utilities
+nltk
+
+# Deployment
+streamlit
+
+# Utilities
+joblib
+
+# Testing
+pytest
