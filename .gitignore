@@ -16,6 +16,7 @@ env/
 data/raw/*.txt
 data/processed/*.csv
 data/processed/*.pkl
+data/processed/*.npy
 
 # Models (large binary files, not tracked)
 models/lstm_seq2seq/
