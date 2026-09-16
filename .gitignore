@@ -19,6 +19,7 @@ data/processed/*.pkl
 data/processed/*.npy
 
 # Models (large binary files, not tracked)
+models/*
 models/lstm_seq2seq/
 models/gru_attention/
 models/transformer_finetuned/
