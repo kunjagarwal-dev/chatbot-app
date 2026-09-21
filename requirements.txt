@@ -13,6 +13,10 @@ tensorflow
 
 # NLP utilities
 nltk
+transformers
+datasets
+accelerate
+torch
 
 # Deployment
 streamlit
